@@ -3,7 +3,7 @@ a=int(input("enter 1st num:"))
 b=int(input("enter 2nd num:"))
 print("arthematic operations")
 suma=a+b
-print("sum is",suma)
+print("sum is",sum)
 sub=a-b
 print("sub is",sub)
 mul=a*b
