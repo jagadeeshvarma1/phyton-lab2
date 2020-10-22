@@ -2,7 +2,7 @@
 a=int(input("enter 1st num:"))
 b=int(input("enter 2nd num:"))
 print("arthematic operations")
-suma=a+b
+sum=a+b
 print("sum is",sum)
 sub=a-b
 print("sub is",sub)
